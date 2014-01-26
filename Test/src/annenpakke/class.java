@@ -12,7 +12,8 @@ public class Pear {
 	
 	public static void main(String[] args) {
 		Pear p = new Pear();
-		System.out.print("Pæra veier %s kilo!", p.getWeight());
+		System.out.print("PÃ¦ra veier %s kilo!", p.getWeight());
+		int d = 2;
 
 	}
 
