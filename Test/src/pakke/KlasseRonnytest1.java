@@ -9,7 +9,7 @@ public class KlasseRonnytest1 {
 	
 	public static void main(String[] args) {
 		
-		boolean a = metode1(0);
+		boolean a = metode1(1);
 		System.out.print(a);
 		
 	}
