@@ -3,4 +3,9 @@
 
 Denne er det bare å ape i vei med.
 
+<<<<<<< HEAD
 ok
+=======
+
+Jepp, ok!
+>>>>>>> origin/patch-1
