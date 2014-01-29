@@ -14,6 +14,8 @@ public class Klasse {
 		Klasse k = new Klasse();
 		System.out.print(k.getAnswer());
 
+		System.out.print(k.getAnswer());
+		
 	}
 
 }
