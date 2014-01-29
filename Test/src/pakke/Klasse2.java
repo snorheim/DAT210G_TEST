@@ -6,7 +6,8 @@ public class Klasse2 {
 	 * @param args
 	 */
 
-	public int mystiskTall(int n){ 
+	public int mystiskTall(int n){
+		// Jo da dette funak 
 		return mystiskTall(n+1);
 	}
 
