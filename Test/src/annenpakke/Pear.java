@@ -16,6 +16,15 @@ public class Pear {
 		System.out.printf("Paera veier %s kilo!", p.getWeight());
 		int d = 2;
 		System.out.print("hllogefgdgf");
+		System.out.print("hllogefgdgf");
+		System.out.print("hllogefgdgf");
+		System.out.print("hllogefgdgf");
+		System.out.print("hllogefgdgf");
+		System.out.print("hllogefgdgf");
+		System.out.print("hllogefgdgf");
+		System.out.print("hllogefgdgf");
+		System.out.print("hllogefgdgf");
+		System.out.print("hllogefgdgf");
 
 	}
 
