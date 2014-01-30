@@ -10,10 +10,12 @@ public class KlasseRonnytest1 {
 	public static void main(String[] args) {
 		
 		boolean a = metode1(1);
-		System.out.print(a);
+		System.out.println(a);
 		
 		boolean b = metode1(1);
-		System.out.print(b);
+		System.out.println(b);
+		
+		System.out.print("Set er viktig aa ha kontroll paa det en gor");
 		
 	}
 
