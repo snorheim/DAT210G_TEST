@@ -12,5 +12,8 @@ public class KlasseRonnyTest2 {
 		boolean a = metode1(0);
 		System.out.print(a);
 		
+		boolean b = metode1(1);
+		System.out.print(b);
+		
 	}
 }
