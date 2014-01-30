@@ -15,6 +15,7 @@ public class Klasse {
 		System.out.print(k.getAnswer());
 		System.out.println("Hello");
 		System.out.println("Simon");
+		System.out.println("hilsner fra ronny");
 	}
 
 }
