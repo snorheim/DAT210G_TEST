@@ -14,6 +14,14 @@ public class HeMan {
 		System.out.println("I got the power!");
 		System.out.println("I got the power!");
 		System.out.println("I got the power!");
+		System.out.println("I got the power!");
+		System.out.println("I got the power!");
+		System.out.println("I got the power!");
+		System.out.println("I got the power!");
+		System.out.println("I got the power!");
+		System.out.println("I got the power!");
+		System.out.println("I got the power!");
+		System.out.println("I got the power!");
 	}
 	
 }
